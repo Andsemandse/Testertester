@@ -15,6 +15,8 @@ public class tyr {
                 System.out.println("3");
             } else if (number == 5) {
                 System.out.println("5");
+            } else if (number == 7) {
+                System.out.println("7");
             } else {
                 System.out.println("Ingen af delene");
             }
